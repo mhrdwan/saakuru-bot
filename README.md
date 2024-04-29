@@ -1,4 +1,4 @@
-# sakuru
+# sakuru bot quest auto
 
 1) buka ```bash https://gainz.saakuru.com/dashboard ```
 
