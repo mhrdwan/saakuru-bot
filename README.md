@@ -1,6 +1,6 @@
 # sakuru bot quest auto
 
-1) buka ```bash https://gainz.saakuru.com/dashboard ```
+1) buka ```https://gainz.saakuru.com/dashboard ```
 
 2) Tekan di Keyboard ```ctrl + shift + i ``` lalu pergi ke tab console 
 ketikkan ```allow pasting```
